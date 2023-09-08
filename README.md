@@ -1,3 +1,5 @@
+## Exploratory Data Analysis
+
 #### About the Data: 
 
 Water quality samples from 26 sites in Miami, FL are typically collected once a week, though frequency varies among the sites. The EPA has set the following standards for water considered safe for swimming:
