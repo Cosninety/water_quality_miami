@@ -1,6 +1,8 @@
 
 # Exploratory Data Analysis
 
+## The following notebook demonstrates the workflow for cleaning, visualizing, and lightly analysing a data set on water quality samples in Miami, FL. 
+
 #### About the Data: 
 
 Water quality samples from 26 sites in Miami, FL are typically collected once a week, though frequency varies among the sites. The EPA has set the following standards for water considered safe for swimming:
