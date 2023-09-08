@@ -1,4 +1,5 @@
-## Exploratory Data Analysis
+
+# Exploratory Data Analysis
 
 #### About the Data: 
 
