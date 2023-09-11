@@ -1,7 +1,7 @@
 
 # Exploratory Data Analysis
 
-## The following notebook demonstrates the workflow for cleaning, visualizing, and lightly analysing a data set of water quality samples taken in Miami, FL. 
+## The following notebook demonstrates the workflow for cleaning, visualizing, and lightly analyzing a data set of water quality samples taken in Miami, FL. 
 
 #### About the Data: 
 
